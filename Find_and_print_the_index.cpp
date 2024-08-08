@@ -1,3 +1,6 @@
+// Finding the key in the array and returning the index of the key.
+
+
 #include<iostream>
 using namespace std;
 int main(){
