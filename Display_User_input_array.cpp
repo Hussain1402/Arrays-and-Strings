@@ -1,3 +1,5 @@
+//Taking the array from the user and returning the elements in the array.
+
 #include<iostream>
 using namespace std;
 int main(){
